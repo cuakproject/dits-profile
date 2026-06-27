@@ -6,7 +6,7 @@ import TechBadge from "../tech-badge";
 
 export const PROJECT_LIST = [
   {
-    name: "Mayochat · Take Order",
+    name: "Mayochat | Take Order",
     description:
       "Platform template chat yang membantu tim customer service merespons lebih cepat dan konsisten. Dibuat karena frustrasi dengan copy-paste manual — sekarang dipakai seluruh tim setiap hari.",
     imageUrl: "/projects/mayochatsz.png",
@@ -16,7 +16,7 @@ export const PROJECT_LIST = [
     badge: "Dipakai tim setiap hari",
   },
   {
-    name: "Mayo Chart · Sales Dashboard",
+    name: "Mayo Chart | Sales Dashboard",
     description:
       "Dashboard rekap penjualan & performa admin yang mengagregasi data dari 3 Google Spreadsheet ke dalam satu visualisasi interaktif. Menggantikan recap manual yang sebelumnya memakan waktu.",
     imageUrl: "/projects/mayochart.png",
@@ -27,7 +27,7 @@ export const PROJECT_LIST = [
     badge: "Menggantikan recap manual",
   },
   {
-    name: "SigMacro · Automation Tool",
+    name: "SigMacro | Automation Tool",
     description:
       "Tools AutoHotkey v2 dengan GUI untuk mengotomatisasi alur login dan manajemen backup code operasional. Dilengkapi humanized mouse movement dan logging sesi.",
     imageUrl: "/projects/sigmacro.png",
@@ -36,7 +36,7 @@ export const PROJECT_LIST = [
     badge: "Otomatisasi desktop",
   },
   {
-    name: "Mayopass · Admin Tools",
+    name: "Mayopass | Admin Tools",
     description:
       "Kalkulator harga Roblox Gamepass berbasis web yang mengotomatisasi perhitungan pricing. Admin tidak perlu lagi hitung manual — hasil instan, akurat, tanpa error.",
     imageUrl: "/projects/mayopass.png",
@@ -46,7 +46,7 @@ export const PROJECT_LIST = [
     badge: "Eliminasi kalkulasi manual",
   },
   {
-    name: "SigmaDOTS · Chrome Extension",
+    name: "SigmaDOTS | Chrome Extension",
     description:
       "Ekstensi browser yang mengotomatisasi workflow repetitif di Roblox dan Google Sheets. Dilengkapi sistem lisensi berbasis Cloudflare Workers.",
     imageUrl: "/projects/sigmadots.png",
