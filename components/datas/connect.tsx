@@ -8,14 +8,9 @@ export const SOCIAL_LIST = [
     url: "https://t.me/dits4u/",
   },
   {
-    name: "LinkedIn",
-    handle: "Aditya Sahran Fadila",
-    url: "https://www.linkedin.com/in/aditya-sahran-fadila-9b0a7924b/",
-  },
-  {
     name: "Github",
     handle: "@cuakproject",
-    url: "https://github.com/cuakproject",
+    url: "https://github.com/ditsune",
   },
 ] as const;
 
